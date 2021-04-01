@@ -9,19 +9,9 @@ namespace FarmSystem.Test1
      */
     public class Hen : Animal
     {
-        //private string _id;
+
         private int _noOfLegs = 4;
 
-
-        //public string Id
-        //{
-        //    get { return _id; }
-        //    set
-        //    {
-        //        _id = value;
-        //    }
-        //}
-        
 
 
         public override int NoOfLegs

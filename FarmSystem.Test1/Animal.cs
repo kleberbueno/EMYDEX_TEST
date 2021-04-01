@@ -31,11 +31,6 @@ namespace FarmSystem.Test1
         public abstract void Talk();
 
 
-        //public abstract void Walk();
-
-
-        //public abstract void ProduceMilk();
-
 
         public abstract void Run();
 

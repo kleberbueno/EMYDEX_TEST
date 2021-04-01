@@ -39,7 +39,7 @@ namespace FarmSystem.Test1
 
         public void ProduceMilk()
         {
-            Console.WriteLine("Cow produced milk");
+            Console.WriteLine("Cow was milked!");
         }
 
         public override void Run()

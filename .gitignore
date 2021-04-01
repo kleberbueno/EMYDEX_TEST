@@ -3,5 +3,6 @@
 ################################################################################
 
 /FarmSystem.Test1/obj/Debug
+/FarmSystem.Test1/bin/Debug
 /.vs/Emydex.FarmSystem.Test/v15/Server/sqlite3
 *.txt
